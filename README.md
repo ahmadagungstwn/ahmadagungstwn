@@ -5,15 +5,13 @@
   <!-- Naruto GIF -->
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3psdjIxdTRwNXZyNjhlZnQ2a24waHpkOGlsazB2dW84MHdyOTVqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eemPC4yhITcTm/giphy.gif" width="1280" alt="Naruto Animation" />
 
-  <h1>Hi, I'm Ahmad Agung Setiawan</h1>
-  <p>
-    I'm <strong>Ahmad Agung Setiawan</strong>, a passionate Web Developer from 🇮🇩 Indonesia.<br>
-    I love building modern, responsive, and functional web applications using Laravel, Tailwind CSS, and JavaScript.
-  </p>
+<h1>Hi, I'm Ahmad Agung Setiawan</h1>
+
+### 🧠 About Me
+
+I'm a Full Stack Web Developer who loves crafting digital experiences with clean, functional, and elegant code.I work with both frontend and backend, using tools like Laravel,Tailwind CSS, and JavaScript to bring ideas to life.
 
 </div>
-
-<hr>
 
 #### ⚙️ Tech Stack
 
@@ -31,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 
 </div>
-
-<hr >
 
 #### 💬 Let's Connect
 
@@ -59,8 +55,6 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </div>
-
-<hr>
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
