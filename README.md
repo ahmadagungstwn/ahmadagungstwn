@@ -6,12 +6,11 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3psdjIxdTRwNXZyNjhlZnQ2a24waHpkOGlsazB2dW84MHdyOTVqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eemPC4yhITcTm/giphy.gif" width="1280" alt="Naruto Animation" />
 
 <h1>Hi, I'm Ahmad Agung Setiawan</h1>
+</div>
 
-### 🧠 About Me
+#### 🧠 About Me
 
 I'm a Full Stack Web Developer who loves crafting digital experiences with clean, functional, and elegant code.I work with both frontend and backend, using tools like Laravel,Tailwind CSS, and JavaScript to bring ideas to life.
-
-</div>
 
 #### ⚙️ Tech Stack
 
