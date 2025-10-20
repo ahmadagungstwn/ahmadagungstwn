@@ -48,7 +48,7 @@ I'm a Full Stack Web Developer who loves crafting digital experiences with clean
   <a href="https://instagram.com/ahmdagungstwan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4455F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/share/1D8r1sMh23/?mibextid=wwXIfr" target="_blank">
+  <a href="https://www.facebook.com/ahmadagung.setiawan.52" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
    <a href="https://github.com/YOUR_USERNAME" target="_blank">
