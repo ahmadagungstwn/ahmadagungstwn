@@ -14,7 +14,18 @@
 
 #### 🧠 About Me
 
-I'm a Full Stack Web Developer who loves crafting digital experiences with clean, functional, and elegant code.I work with both frontend and backend, using tools like Laravel,Tailwind CSS, and JavaScript to bring ideas to life.
+### I am a passionate Web Developer.🔥
+
+🌟 Aspiring Fullstack Developer | Building modern web applications with Laravel & React.
+<br/>
+🚀 Passionate about crafting intuitive and scalable solutions.
+<br/>
+🎯 Goals: Deliver impactful projects for developers and communities alike.
+<br/>
+✨ Always learning, experimenting, and embracing new technologies! Currently diving deep into React & Astro
+<br/>
+
+📬 Let’s connect! Always open to collaborate and share ideas: [ahmadagungbwa@gmail.com]
 
 #### ⚙️ Tech Stack
 
