@@ -49,7 +49,7 @@
 #### 💬 Let's Connect
 
 <div align="center">
-  <a href="mailto:ahmadagungbwa@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmadagungbwa@gmail.com&su=Hey%20Agung!" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/ahmadagungsetiawan/" target="_blank">
